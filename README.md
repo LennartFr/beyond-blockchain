@@ -7,3 +7,5 @@ Technologies that Blockchain can leverage
 
 [Machine Learning and Blockchain](https://medium.com/@Intersog/what-happens-when-you-combine-blockchain-and-machine-learning-2afafc9654d2)
 
+[Medical Blockchain](https://github.com/IBM/Medical-Blockchain)
+
